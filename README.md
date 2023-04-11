@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hassan Bazzoun
 ======================================================================================================================================
 
-Software developer and software engineer
-----------------------------------------
+Software developer and engineer
+-------------------------------
 
 Software developer and engineer with 3+ year of experience. Currently persuing a master's degree in computer Science. Java | MySQL | Kotlin | JetPackCompose | PHP | Python | Cassandra | Firebase
 
