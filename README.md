@@ -8,7 +8,6 @@ Android developer and software engineer
 
 * 🌍  I'm based in Lebanon
 * ✉️  You can contact me at [xcode.bazzoun@gmail.com](mailto:xcode.bazzoun@gmail.com)
-* ⚡  Drink water :)
 
 ### Skills
 
