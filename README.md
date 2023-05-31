@@ -8,7 +8,7 @@ Software developer and engineer with 3+ year of experience. Currently persuing a
 
 * 🌍  I'm based in Lebanon
 * ✉️  You can contact me at [xcode.bazzoun@gmail.com](mailto:xcode.bazzoun@gmail.com)
-* ⚡  Drink water :)
+
 
 ### Skills
 
