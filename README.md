@@ -5,10 +5,18 @@ Software developer and engineer
 -------------------------------
 
 Software developer and engineer with 3+ year of experience.
+
 2 years experience of native android development. 
 
 
-Currently persuing a master's degree in computer Science. Java | MySQL | Kotlin | JetPackCompose | PHP | Python | Cassandra | Firebase
+Currently persuing a master's degree in computer Science. 
+
+
+
+
+Java | MySQL | Kotlin | JetPackCompose | PHP | Python | Cassandra | Firebase
+
+
 
 * 🌍  I'm based in Lebanon
 * ✉️  You can contact me at [xcode.bazzoun@gmail.com](mailto:xcode.bazzoun@gmail.com)
