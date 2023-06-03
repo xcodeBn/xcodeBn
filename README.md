@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software developer and engineer
 -------------------------------
 
-Software developer and engineer with 3+ year of experience. Currently persuing a master's degree in computer Science. Java | MySQL | Kotlin | JetPackCompose | PHP | Python | Cassandra | Firebase
+Software developer and engineer with 3+ year of experience.
+2 years experience of native android development. 
+
+
+Currently persuing a master's degree in computer Science. Java | MySQL | Kotlin | JetPackCompose | PHP | Python | Cassandra | Firebase
 
 * 🌍  I'm based in Lebanon
 * ✉️  You can contact me at [xcode.bazzoun@gmail.com](mailto:xcode.bazzoun@gmail.com)
