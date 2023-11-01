@@ -5,7 +5,6 @@ Software developer and engineer
 -------------------------------
 
 
-Currently persuing a master's degree in computer Science. 
 
 
 
