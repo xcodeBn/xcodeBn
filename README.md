@@ -17,6 +17,10 @@ Java | MySQL | Kotlin | JetPackCompose | PHP | Python | Cassandra | Firebase
 * ✉️  You can contact me at [xcode.bazzoun@gmail.com](mailto:xcode.bazzoun@gmail.com)
 
 
+[![XcodeBn's GitHub stats](https://github-readme-stats.vercel.app/api?username=xcodeBn)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 ### Skills
 
 
