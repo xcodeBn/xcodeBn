@@ -17,10 +17,6 @@ Java | MySQL | Kotlin | JetPackCompose | PHP | Python | Cassandra | Firebase
 * ✉️  You can contact me at [xcode.bazzoun@gmail.com](mailto:xcode.bazzoun@gmail.com)
 
 
-[![XcodeBn's GitHub stats](https://github-readme-stats.vercel.app/api?username=xcodeBn)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 ### Skills
 
 
@@ -46,3 +42,20 @@ Java | MySQL | Kotlin | JetPackCompose | PHP | Python | Cassandra | Firebase
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/xcodeBn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+
+
+
+
+
+### Stats
+
+
+
+[![XcodeBn's GitHub stats](https://xcodebnstats.vercel.app/api?username=xcodeBn&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Top Langs](https://xcodebnstats.vercel.app/api/top-langs/?username=xcodeBn&theme=transparent&langs_count=15&layout=donut-vertical)
+
+
+
+
