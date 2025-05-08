@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ======================================================================================================================================
 
-Software engineer 
+FullStack Android Software engineer / Scientefic Researche
 -------------------------------
 
 
