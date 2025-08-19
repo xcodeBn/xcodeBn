@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ======================================================================================================================================
 
-FullStack Android Software engineer / Scientific Researcher
+01101001011110101010000011110001 [ this doesnt mean anything im just bored ] 
 -------------------------------
 
 
