@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ======================================================================================================================================
 
-01101001011110101010000011110001 [ this doesnt mean anything im just bored ] 
+Hassan Bazzoun 
 -------------------------------
 
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 
-Java | MySQL | Kotlin | JetPackCompose | PHP | Python | Cassandra | Firebase
+Java | MySQL | Kotlin | JetPackCompose | PHP | Python | Cassandra | Firebase | Spring Boot 
 
 
 
