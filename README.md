@@ -12,7 +12,9 @@
   </p>
 </div>
 
----
+<div align="center">
+  <img src="divider.png" alt="Viltrumite Divider" width="100%" />
+</div>
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R5eXJ3eXJ3eXJ3eXJ3eXJ3eXJ3eXJ3eXJ3eXJ3eXJ3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7TKr3nzbh5WgCFxe/giphy.gif" width="30px"> About Me
 
@@ -23,7 +25,9 @@ I hail from the planet **Viltrum** (or maybe just Earth), bringing superior tech
 - 💬 Ask me about **Android, SpringBoot, or how to survive a black hole**
 - 📫 How to reach me: **Send a signal to the stars**
 
----
+<div align="center">
+  <img src="divider.png" alt="Viltrumite Divider" width="100%" />
+</div>
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R5eXJ3eXJ3eXJ3eXJ3eXJ3eXJ3eXJ3eXJ3eXJ3eXJ3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7TKr3nzbh5WgCFxe/giphy.gif" width="30px"> The Arsenal (Skills)
 
@@ -53,7 +57,9 @@ I hail from the planet **Viltrum** (or maybe just Earth), bringing superior tech
 
 </div>
 
----
+<div align="center">
+  <img src="divider.png" alt="Viltrumite Divider" width="100%" />
+</div>
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R5eXJ3eXJ3eXJ3eXJ3eXJ3eXJ3eXJ3eXJ3eXJ3eXJ3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7TKr3nzbh5WgCFxe/giphy.gif" width="30px"> Viltrumite Stats
 
@@ -66,9 +72,13 @@ I hail from the planet **Viltrum** (or maybe just Earth), bringing superior tech
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xcodeBn&hide_border=true&background=0d1117&ring=B71C1C&fire=B71C1C&currStreakLabel=B71C1C&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
 </div>
 
----
+<div align="center">
+  <img src="divider.png" alt="Viltrumite Divider" width="100%" />
+</div>
 
 <div align="center">
   <i>"You don't seem to understand. Earth isn't yours to conquer."</i><br>
   <b>But this code is.</b>
+  <br><br>
+  <img src="footer.png" alt="Omni-Man Footer" width="100%" />
 </div>
