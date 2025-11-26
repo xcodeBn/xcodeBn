@@ -36,9 +36,9 @@
 
 <br/>
 
-## 👨‍💻 Professional Summary
+## 👨‍💻 Summary
 
-Software Engineer with deep expertise in **Native Android Development** and **Full Stack Architecture**. I specialize in building robust backend systems using **Spring Boot** and **Laravel**, delivering seamless, high-performance solutions across mobile and web platforms.
+I like to code I guess :) 
 
 ---
 
@@ -88,8 +88,8 @@ Software Engineer with deep expertise in **Native Android Development** and **Fu
 ## 📊 System Metrics
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=xcodeBn&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xcodeBn&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xcodeBn&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xcodeBn&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
 </div>
 
 <br/>
