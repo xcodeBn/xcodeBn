@@ -95,7 +95,7 @@ I like to code I guess :)
 <br/>
 
 
-[![xcodebn's GitHub stats](https://github-readme-stats.vercel.app/api?username=xcodebn)](https://github.com/xcodebn/github-readme-stats)
+[![xcodebn's GitHub stats](https://github-readme-stats.vercel.app/api?username=xcodebn)](https://github.com/xcodeBn/githubreadme_stats)
 
 
 <br/>
