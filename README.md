@@ -8,7 +8,7 @@
 
   <br/>
 
-  <h3>System Architect | Distributed Systems Engineer | Polyglot</h3>
+  <h3>System Architect | Distributed Systems Engineer | Researcher </h3>
   
   <p>
     <em>"It's not a bug, it's an undocumented feature."</em>
