@@ -98,6 +98,8 @@ I like to code I guess :)
 [![xcodebn's GitHub stats](https://xcodebnreadmestats.vercel.app/api?username=xcodebn)](https://github.com/xcodeBn/githubreadme_stats)
 
 
+[![Top Langs](https://xcodebnreadmestats.vercel.app/api?username=xcodebn)]((https://xcodebnreadmestats.vercel.app/api?username=xcodebn))
+
 <br/>
 
 <div align="center">
