@@ -98,7 +98,8 @@ I like to code I guess :)
 [![xcodebn's GitHub stats](https://xcodebnreadmestats.vercel.app/api?username=xcodebn)](https://github.com/xcodeBn/githubreadme_stats)
 
 
-[![Top Langs](https://xcodebnreadmestats.vercel.app/api?username=xcodebn)]((https://xcodebnreadmestats.vercel.app/api?username=xcodebn))
+
+[![Top Langs](https://xcodebnreadmestats.vercel.app/api/top-langs/?username=xcodebn)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
