@@ -114,7 +114,7 @@
         <a class="secondary" href="mailto:hassan.bazzoundev@gmail.com">Email</a>
         <a class="secondary" id="readme-link" href="https://github.com/xcodeBn/xcodeBn#readme">README</a>
       </div>
-      <div class="footer">© <span id="year">2026</span> Hassan Bazzoun • Built with clarity and care.</div>
+      <div class="footer">© <span id="year"></span> Hassan Bazzoun • Built with clarity and care.</div>
     </main>
     <script>
       const readmeLink = document.getElementById("readme-link");
@@ -129,7 +129,7 @@
           const repo = pathParts[0];
           readmeLink.href = `https://github.com/${owner}/${repo}#readme`;
         } else if (owner) {
-          readmeLink.href = `https://github.com/${owner}/${owner}.github.io#readme`;
+          readmeLink.href = `https://github.com/${owner}`;
         }
       }
 

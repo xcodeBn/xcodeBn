@@ -84,7 +84,7 @@ I'm **Hassan Bazzoun**, a Kotlin expert and backend engineer focused on system d
 ## 🐍 Contribution Flow
 
 <div align="center">
-  <img src="https://github.com/xcodeBn/xcodeBn/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+  <img src="https://github.com/xcodeBn/xcodeBn/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </div>
 
 <div align="center">
