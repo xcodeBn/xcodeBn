@@ -112,7 +112,7 @@
       <div class="buttons">
         <a href="https://github.com/xcodeBn">GitHub</a>
         <a class="secondary" href="mailto:hassan.bazzoundev@gmail.com">Email</a>
-        <a class="secondary" id="readme-link" href="https://github.com">README</a>
+        <a class="secondary" id="readme-link" href="https://github.com/xcodeBn">README</a>
       </div>
       <div class="footer">© 2026 Hassan Bazzoun • Built with clarity and care.</div>
     </main>
@@ -121,10 +121,15 @@
       const host = window.location.hostname;
       const pathParts = window.location.pathname.split("/").filter(Boolean);
 
-      if (readmeLink && host.endsWith("github.io") && pathParts.length > 0) {
+      if (readmeLink && host.endsWith("github.io")) {
         const owner = host.split(".")[0];
-        const repo = pathParts[0];
-        readmeLink.href = `https://github.com/${owner}/${repo}#readme`;
+
+        if (pathParts.length > 0) {
+          const repo = pathParts[0];
+          readmeLink.href = `https://github.com/${owner}/${repo}#readme`;
+        } else if (owner) {
+          readmeLink.href = `https://github.com/${owner}`;
+        }
       }
     </script>
   </body>
