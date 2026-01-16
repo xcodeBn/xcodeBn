@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Hassan Bazzoun | Kotlin Engineer</title>
+    <style>
+      :root {
+        color-scheme: dark;
+        --bg: #120821;
+        --bg-deep: #0b0616;
+        --bg-accent: #2a0f4f;
+        --primary: #7f52ff;
+        --secondary: #c711e1;
+        --text: #f5f3ff;
+        --muted: #ddd6fe;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+        color: var(--text);
+        background: radial-gradient(circle at top, var(--bg-accent) 0%, var(--bg) 45%, var(--bg-deep) 100%);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 2.5rem;
+      }
+
+      main {
+        width: min(760px, 100%);
+        text-align: center;
+        background: rgba(18, 8, 33, 0.92);
+        border-radius: 28px;
+        border: 1px solid rgba(127, 82, 255, 0.4);
+        padding: 3rem 3.5rem;
+        box-shadow: 0 32px 80px rgba(8, 2, 18, 0.55);
+      }
+
+      .tag {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.5rem;
+        padding: 0.4rem 0.9rem;
+        border-radius: 999px;
+        background: rgba(127, 82, 255, 0.18);
+        color: var(--muted);
+        font-size: 0.8rem;
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
+      }
+
+      h1 {
+        margin: 1.5rem 0 0.75rem;
+        font-size: clamp(2.2rem, 3vw, 2.8rem);
+      }
+
+      p {
+        margin: 0 0 1.8rem;
+        color: var(--muted);
+        line-height: 1.7;
+      }
+
+      .buttons {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.75rem;
+        justify-content: center;
+      }
+
+      .buttons a {
+        text-decoration: none;
+        color: var(--text);
+        padding: 0.85rem 1.6rem;
+        border-radius: 999px;
+        font-weight: 600;
+        background: linear-gradient(135deg, var(--primary), var(--secondary));
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+      }
+
+      .buttons a.secondary {
+        background: transparent;
+        border: 1px solid rgba(127, 82, 255, 0.5);
+      }
+
+      .buttons a:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 14px 30px rgba(127, 82, 255, 0.25);
+      }
+
+      .footer {
+        margin-top: 2rem;
+        font-size: 0.85rem;
+        color: #b8a6ff;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <span class="tag">Kotlin-inspired • Dark Purple</span>
+      <h1>Hassan Bazzoun</h1>
+      <p>
+        Kotlin-first software engineer focused on backend architecture, system design, and reliable
+        platforms. This GitHub Pages landing page mirrors the README palette with Kotlin-night
+        accents.
+      </p>
+      <div class="buttons">
+        <a href="https://github.com/xcodeBn">GitHub</a>
+        <a class="secondary" href="mailto:hassan.bazzoundev@gmail.com">Email</a>
+        <a class="secondary" href="https://github.com/xcodeBn/xcodeBn#readme">README</a>
+      </div>
+      <div class="footer">© 2026 Hassan Bazzoun • Built with clarity and care.</div>
+    </main>
+  </body>
+</html>
