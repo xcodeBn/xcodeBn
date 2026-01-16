@@ -3,7 +3,8 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=7C3AED&center=true&vCenter=true&width=620&lines=Building+clean%2C+fast%2C+human-friendly+software.;System+design%2C+Kotlin+Multiplatform%2C+and+strong+backends.;Always+learning%2C+always+shipping." alt="Typing animation" />
+  <a href="[https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C90CF7&width=435&lines=Senior+Software+Engineer;Kotlin+Expert;Native+Android+Developer;Full+Stack+Developer;System+Design](https://readme-typing-svg.demolab.com/demo/?color=C90CF7&background=FFFFFF00&center=true&vCenter=true&width=468&lines=Senior+Software+Engineer;Kotlin+Expert;Native+Android+Developer;Full+Stack+Developer;System+Design)" alt="Typing SVG" /></a>
+  
 </div>
 
 <div align="center">
@@ -56,9 +57,7 @@ I'm **Hassan Bazzoun**, a Kotlin expert and backend engineer focused on system d
 
 ## 🧠 Current Focus
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xcodeBn&repo=githubreadme_stats&theme=tokyonight&hide_border=true" alt="Pinned project" />
-</div>
+
 
 ---
 
@@ -66,7 +65,6 @@ I'm **Hassan Bazzoun**, a Kotlin expert and backend engineer focused on system d
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xcodeBn&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xcodeBn&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
 <div align="center">
