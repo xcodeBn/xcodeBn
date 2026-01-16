@@ -112,12 +112,13 @@
       <div class="buttons">
         <a href="https://github.com/xcodeBn">GitHub</a>
         <a class="secondary" href="mailto:hassan.bazzoundev@gmail.com">Email</a>
-        <a class="secondary" id="readme-link" href="https://github.com/xcodeBn">README</a>
+        <a class="secondary" id="readme-link" href="https://github.com/xcodeBn/xcodeBn#readme">README</a>
       </div>
-      <div class="footer">© 2026 Hassan Bazzoun • Built with clarity and care.</div>
+      <div class="footer">© <span id="year">2026</span> Hassan Bazzoun • Built with clarity and care.</div>
     </main>
     <script>
       const readmeLink = document.getElementById("readme-link");
+      const yearLabel = document.getElementById("year");
       const host = window.location.hostname;
       const pathParts = window.location.pathname.split("/").filter(Boolean);
 
@@ -128,8 +129,12 @@
           const repo = pathParts[0];
           readmeLink.href = `https://github.com/${owner}/${repo}#readme`;
         } else if (owner) {
-          readmeLink.href = `https://github.com/${owner}`;
+          readmeLink.href = `https://github.com/${owner}/${owner}.github.io#readme`;
         }
+      }
+
+      if (yearLabel) {
+        yearLabel.textContent = new Date().getFullYear();
       }
     </script>
   </body>
