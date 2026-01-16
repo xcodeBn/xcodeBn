@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7c3aed&height=210&section=header&text=Hassan%20Bazzoun&fontSize=54&fontAlignY=36&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Mobile%20%7C%20Systems&descAlignY=62&animation=fadeIn" alt="Hassan Bazzoun header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7c3aed&height=210&section=header&text=Hassan%20Bazzoun&fontSize=54&fontAlignY=36&fontColor=ffffff&desc=Software%20Engineer%20%7C%20System%20Design%20%7C%20Backend&descAlignY=62&animation=fadeIn" alt="Hassan Bazzoun header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=7C3AED&center=true&vCenter=true&width=620&lines=Building+clean%2C+fast%2C+human-friendly+software.;Mobile-first+experiences+with+strong+backends.;Always+learning%2C+always+shipping." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=7C3AED&center=true&vCenter=true&width=620&lines=Building+clean%2C+fast%2C+human-friendly+software.;System+design%2C+Kotlin+Multiplatform%2C+and+strong+backends.;Always+learning%2C+always+shipping." alt="Typing animation" />
 </div>
 
 <div align="center">
@@ -26,10 +26,11 @@
 
 ## ⚡ About Me
 
-I'm **Hassan Bazzoun**, a software engineer who loves crafting sleek mobile experiences, efficient systems, and reliable backends. I focus on performance, clean architecture, and designs that feel effortless.
+I'm **Hassan Bazzoun**, a Kotlin expert and backend engineer focused on system design and architecture. I enjoy crafting resilient platforms, efficient systems, and reliable backends with a focus on performance and clean design.
 
-- 🎯 **Focus:** Android, backend systems, and product-driven engineering.
+- 🎯 **Focus:** Kotlin Multiplatform, backend systems, and architecture-led engineering.
 - 🧩 **Mindset:** Build with clarity, ship with confidence, iterate with purpose.
+- 🌱 **Currently learning:** Rust and .NET.
 - 📫 **Reach me:** [hassan.bazzoundev@gmail.com](mailto:hassan.bazzoundev@gmail.com).
 
 ---
@@ -43,7 +44,7 @@ I'm **Hassan Bazzoun**, a software engineer who loves crafting sleek mobile expe
 
 ### Frameworks & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,ktor,spring,react,laravel,unity" />
+  <img src="https://skillicons.dev/icons?i=ktor,spring,react,laravel,unity" />
 </p>
 
 ### Data & Cloud
