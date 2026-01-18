@@ -1,11 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:120821,100:7f52ff&height=210&section=header&text=Hassan%20Bazzoun&fontSize=54&fontAlignY=36&fontColor=f5f3ff&desc=Software%20Engineer%20%7C%20System%20Design%20%7C%20Backend&descAlignY=62&animation=fadeIn" alt="Hassan Bazzoun header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:120821,100:7f52ff&height=210&section=header&text=Hassan%20Bazzoun&fontSize=54&fontAlignY=36&fontColor=f5f3ff&desc=Senior%20Software%20Engineer%20%7C%20System%20Design%20%7C%20Backend&descAlignY=62&animation=fadeIn" alt="Hassan Bazzoun header" />
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=7F52FF&width=435&lines=Senior+Software+Engineer;Kotlin+Expert;Native+Android+Developer;Full+Stack+Developer;System+Design" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C90CF7&background=FFFFFF00&center=true&vCenter=true&width=468&lines=Senior+Software+Engineer;Kotlin+Expert;Native+Android+Developer;Full+Stack+Developer;System+Design" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
