@@ -33,7 +33,7 @@
 
 ## ⚡ About Me
 
-I'm **Hassan Bazzoun**, a Kotlin expert and backend engineer focused on system design and architecture. I enjoy crafting resilient platforms, efficient systems, and reliable backends with a focus on performance and clean design.
+Senior Software Engineer
 
 - 🎯 **Focus:** Kotlin Multiplatform, backend systems, and architecture-led engineering.
 - 🧩 **Mindset:** Build with clarity, ship with confidence, iterate with purpose.
